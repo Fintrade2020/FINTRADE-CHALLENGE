@@ -6,15 +6,15 @@ A lo largo de su realización, se elaboraron diversas herramientas audiovisuales
 
 - **Primera sesión** https://bit.ly/33nptuG
 
-En este video se dió una introducción a lo que sería el magazine del fintrade challenge y los temas que allí se trabajarían, de igual manera, se dió una recomendación con respecto a las fuentes confiables para analizar y tener información sobre el mercado, luego de esto, se da una introducción a la página investing y tradingview, las cuales será clave para los demás videos y a partir de esto se analiza el comportamiento de los contratos de futuros de oro
+Este video da una introducción a lo que sería el magazine del fintrade challenge durante el concurso y los temas que allí se trabajarían, de igual manera, da una recomendación con respecto a las fuentes confiables para analizar y tener información sobre el mercado, luego de esto, realiza una introducción a la página investing y tradingview, las cuales son clave para próximos análisis y a partir de esto se analiza el comportamiento de los contratos de futuros de oro y los eventos que tuvieron un efecto sobre ellos.
 
 - **Segunda sesión** https://bit.ly/2V5lgYj
 
-*
+En esta sesión se abarca principalmente una noticia fundamental relacionada con la declaración de Jerome Powell, presidente del Sistema de la Reserva Federal, acerca de medidas de política monetaria diferentes, las cuales tuvieron un impacto evidente en el valor del dólar estadounidense.
 
-- **Tercera sesión https://bit.ly/3nWZimw
+- **Tercera sesión** https://bit.ly/3nWZimw
 
-
+El tema central de este video es sobre uno de los futuros más líquidos y negociados activamente en el mundo, es decir, el de los contratos de futuros de petróleo, allí se menciona su importancia, los factores claves del mercado que generan un impacto en él y su comportamiento con relación a estos.
 
 - **Cuarta sesión** https://bit.ly/39l4A7s
 
